@@ -1,0 +1,5 @@
+*~
+*.bak
+
+/salt
+/cmd/salt/salt
